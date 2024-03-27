@@ -15,6 +15,7 @@
     "recast": "^0.23.6",
     "validate-npm-package-name": "^5.0.0",
     "vue": "^2.6.8",
-    "vue-template-compiler": "^2.6.8"
+    "vue-template-compiler": "^2.6.8",
+    "lru-cache": "^5.1.1"
   }
 }
